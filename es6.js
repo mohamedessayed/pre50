@@ -1,5 +1,6 @@
 number = 0;
 
+isAuth = false
 
 isAuth? "dashboard" : "loginPage"
 
